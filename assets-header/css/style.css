@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'American';
+    src: url("fonts/American\ Life\ Normal.ttf");
+}
+
+.Text-bg {
+    font-family: "American";
+    text-align: center;
+    font-size: 180px;
+    opacity: 0.7;
+    color: black;
+}
